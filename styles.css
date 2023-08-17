@@ -1,0 +1,50 @@
+
+body{
+    height: auto;
+    width: auto;
+    margin: 30px;
+
+}
+.art1 {
+    width: 500px;
+    height: 700px;
+    float: left;
+    background-color: darkcyan;
+    
+}
+
+.art2{
+    float: right;
+    width: 515px;
+    height: 900px;
+    background-color: aqua;
+    
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    text-align: left;
+    border-radius: 50%;
+}
+
+
+hr{
+
+    background-color: blue;
+    float: left;
+    height: 4px;
+    width: 300px;
+}
+
+.op{
+    border-radius: 50px;
+    background-color: chocolate;
+    height: 50PX;
+    text-align: center;
+    
+}
+.n{
+    float: right;
+    width: 600px;
+    margin-top: 100px;
+}
